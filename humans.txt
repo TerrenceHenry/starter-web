@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    someone         s@com       tweet@tweet.me 
 
 # THANKS
 

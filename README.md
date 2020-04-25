@@ -24,5 +24,7 @@ can be on any web server or even local.
 
 ## How to contribute
 
+Please fork this repository and then Pull Requests for review.
+
 ### Copyright 
 Git.Training 2020

@@ -23,3 +23,6 @@ can be on any web server or even local.
 
 
 ## How to contribute
+
+### Copyright 
+Git.Training 2020

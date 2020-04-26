@@ -29,4 +29,4 @@ can be on any web server or even local.
 Please fork this repository and then Pull Requests for review.
 
 ### Copyright 
-Git.Training 2020
+T-SOFT 2020. All rights reserved
